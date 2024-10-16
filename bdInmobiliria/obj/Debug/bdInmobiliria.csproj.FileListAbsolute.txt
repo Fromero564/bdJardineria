@@ -1,0 +1,11 @@
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\bin\Debug\bdInmobiliria.exe.config
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\bin\Debug\bdInmobiliria.exe
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\bin\Debug\bdInmobiliria.pdb
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\obj\Debug\bdInmobiliria.csproj.AssemblyReference.cache
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\obj\Debug\bdInmobiliria.Form1.resources
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\obj\Debug\bdInmobiliria.Properties.Resources.resources
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\obj\Debug\bdInmobiliria.csproj.GenerateResource.cache
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\obj\Debug\bdInmobiliria.csproj.CoreCompileInputs.cache
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\obj\Debug\bdInmobiliria.exe
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\obj\Debug\bdInmobiliria.pdb
+C:\Users\fervi\source\repos\bdInmobiliria\bdInmobiliria\obj\Debug\bdInmobiliria.Localidades.resources
